@@ -85,6 +85,6 @@ public class GMTest {
 		@AfterMethod
 		public void afterTest() 
 		{
-			driver.quit();			
+			//driver.quit();			
 		}		
 }

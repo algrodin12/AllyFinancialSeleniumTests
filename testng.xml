@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="tests.GMTest"/>
-      <class name="tests.GoogleTest"/>
+      <class name="tests.AllyFinancialTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
